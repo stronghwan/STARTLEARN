@@ -6,3 +6,5 @@ print(b)
 
 # xinzen
 # second
+
+d = "stronghwan"
